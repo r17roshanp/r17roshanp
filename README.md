@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">MERN Stack Developer</h1>
 
-<!--
-**r17roshanp/r17roshanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MERN Stack Developer  
+- Built real-world projects using modern web technologies  
+- Passionate about building clean, scalable, and user-friendly applications  
+- Interested in backend architecture, APIs, and performance optimization  
+
+---
+
+## 🚀 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github" />
+</p>
+
+---
+
+## 📁 Projects
+
+- 📝 **Resume Builder Web App** – Public resume creation & download platform (MERN)  
+- 🛒 **Grocery Delivery Web App** – Online grocery ordering & management system  
+- 🏋️ **Fitness Center Management System** – Member & service handling platform  
+- 🚗 **Car Rental Service** – Vehicle booking & rental management system  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
