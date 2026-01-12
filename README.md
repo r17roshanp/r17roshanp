@@ -1,4 +1,6 @@
-<h1 align="center">MERN Stack Developer</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=700&color=00E7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Scalable+Apps" />
+</h1>
 
 ---
 
